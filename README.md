@@ -1,2 +1,2 @@
 # coffee-did-docker-image
-env include coffee, docker in docker, and nodejs
+env include coffee and nodejs
